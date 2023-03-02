@@ -1,3 +1,51 @@
-My role is participant in the meeting and discussed about the activities that are completed , ongoing and what is blocking us in finishing the task.
+# Samhitha Pemtaparthy's role
+I took the role of a organizer/moderator in the scrum meeting and called out the participants to speak while writing down the minutes of the meetings.
+
+I took the role of a senior developer in the previous meeting and discussed the point of view of a senior developer regarding scrum meetings.
+
+# Siva Sagar Kolachina's role
+My role is a participant in the meeting and discussed about the activities that are completed , ongoing and what is blocking us in finishing the task.
 
 My role is Junior Developer, i supported in having the Stand-up meetings and how it helps junior developers in completing our daily tasks.
+
+# Akshay Reddy Narra's role
+I took role of participant in the Standup Meeting and I discussed my updates and blockers in the meetings
+
+I took role of Manager in the Another Meeting and I shared my views on the Daily Standup Meetings
+
+# Common Meetings.txt
+
+Standup Meeting
+Roles: Samhitha (Organizer), Akshay (Participant), Sagar (Participant)
+
+Meeting Agenda
+
+- Discuss Progress
+- Discuss any blockers
+- Discuss future work 
+
+Meeting Minutes 
+
+- Team completed Designing Phase of the Course Project 
+- Started preparing for the Technical Interview Workshops (HW4)
+- Too many deadlines for assignments or courses this week
+- Excited for Spring Break, Everyone have a great time!
+- Need to start working on the frontend of the project, Angular (Blocker) -- 2 team members need to learn the technology in the spring break
+
+Meeting to Analyze if Daily Standups are required
+Roles: Samhitha (Senior Developer), Akshay (Manager), Sagar (Junior Developer)
+
+Meeting Agenda
+
+- Discuss if daily stanup meetings are useful in a medium-size tech company
+- Discuss the advantages and disadvantages of the scrum meetings
+- Discuss trade-offs and plan to conduct customized scrum schedules for the teams accordingly
+
+Meeting Minutes
+
+- As a Junior Developer, Sagar feels that stand up are important to get assistance from senior developers
+- As a Manager, Akshay feels that there are challenges in scheduling the scrum meetings and managing the duration of the meetings
+- Also, the manager feels that scrum meetings are mandatory for team awareness and collaboration
+- As a Senior Developer, Samhitha is overloaded with meetings on design, architecture and client interactions therefore feels that one more meeting is adding overhead to her schedule
+- As a Team, the members agree that standups are important and need to organized but they have agreed to do it on alternate days to reduce the overhead and keep track of the team progress at the same time
+
