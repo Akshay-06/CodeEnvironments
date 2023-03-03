@@ -1,6 +1,6 @@
 Code metrics:
 
-Lines of code:
+Lines of code (hello.py of the main branch):
 
 1)Total Lines of source code : 7
 
@@ -9,7 +9,9 @@ Lines of code:
 3)Total Lines of code : 10
 
 
-Advanced Software Metrics:
+Advanced Software Metrics :
+
+--Done on dependency_injection.py present in the location python-patterns/patterns/ repo.
 
 
 Cyclomatic Complexity:
