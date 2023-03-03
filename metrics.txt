@@ -11,7 +11,7 @@ Lines of code (hello.py of the main branch):
 
 Advanced Software Metrics :
 
---Done on dependency_injection.py present in the location python-patterns/patterns/ repo.
+--Done on dependency_injection.py file present in the location python-patterns/patterns/ repo.
 
 
 Cyclomatic Complexity:
